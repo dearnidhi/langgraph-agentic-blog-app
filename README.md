@@ -35,20 +35,7 @@ Long-form detailed blog content
 
 ✨ Fully extensible for multi-agent and RAG workflows
 
-📂 Project Structure
-bloggeneration/
-│── app.py
-│── requirements.txt
-│── .env
-│── src/
-│   ├── llms/
-│   │   └── groqllm.py
-│   ├── nodes/
-│   │   └── blog_node.py
-│   ├── states/
-│   │   └── blogstate.py
-│   └── graphs/
-│       └── graph_builder.py
+
 
 ⚙️ Installation
 1️⃣ Clone repo
